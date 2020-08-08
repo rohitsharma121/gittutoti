@@ -1,3 +1,4 @@
 *.log
 /dir/ 
 /stattic/dir
+db.accdb
